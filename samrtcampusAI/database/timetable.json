@@ -1,0 +1,74 @@
+[
+    {
+        "id": "t1",
+        "department": "Computer Science",
+        "day": "Monday",
+        "subject": "Advanced AI",
+        "time": "09:00 AM - 11:00 AM",
+        "room": "Room 501",
+        "faculty": "Dr. Sarah Jenkins"
+    },
+    {
+        "id": "t2",
+        "department": "Computer Science",
+        "day": "Monday",
+        "subject": "Cloud Computing",
+        "time": "02:00 PM - 03:30 PM",
+        "room": "Lab 4",
+        "faculty": "Dr. Sarah Jenkins"
+    },
+    {
+        "id": "t3",
+        "department": "Computer Science",
+        "day": "Tuesday",
+        "subject": "Algorithms",
+        "time": "10:00 AM - 12:00 PM",
+        "room": "Room 503",
+        "faculty": "Prof. David Miller"
+    },
+    {
+        "id": "t4",
+        "department": "Computer Science",
+        "day": "Wednesday",
+        "subject": "Advanced AI",
+        "time": "09:00 AM - 11:00 AM",
+        "room": "Room 501",
+        "faculty": "Dr. Sarah Jenkins"
+    },
+    {
+        "id": "t5",
+        "department": "Computer Science",
+        "day": "Thursday",
+        "subject": "Cloud Computing",
+        "time": "11:30 AM - 01:00 PM",
+        "room": "Lab 4",
+        "faculty": "Dr. Sarah Jenkins"
+    },
+    {
+        "id": "t6",
+        "department": "Electronics",
+        "day": "Monday",
+        "subject": "Signal Processing",
+        "time": "10:00 AM - 12:00 PM",
+        "room": "Room 201",
+        "faculty": "Prof. David Miller"
+    },
+    {
+        "id": "t7",
+        "department": "Electronics",
+        "day": "Tuesday",
+        "subject": "Microcontrollers",
+        "time": "09:00 AM - 11:00 AM",
+        "room": "Lab 2",
+        "faculty": "Dr. Sarah Jenkins"
+    },
+    {
+        "id": "t8",
+        "department": "Electronics",
+        "day": "Thursday",
+        "subject": "VLSI Design",
+        "time": "01:30 PM - 03:30 PM",
+        "room": "Room 204",
+        "faculty": "Emily Chen (TA)"
+    }
+]

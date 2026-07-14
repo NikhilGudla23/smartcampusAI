@@ -1,0 +1,58 @@
+[
+    {
+        "id": "a1",
+        "title": "Assignment 1: Neural Networks from Scratch",
+        "description": "Implement backpropagation and gradient descent in pure NumPy for a 2-layer classifier.",
+        "department": "Computer Science",
+        "subject": "Advanced AI",
+        "due_date": "2026-07-01",
+        "created_by": "faculty@smartcampus.edu",
+        "submissions": [
+            {
+                "student_id": "CS-2024-042",
+                "student_name": "Nikhil Gupta",
+                "submission_date": "2026-06-30",
+                "status": "Graded",
+                "grade": "A",
+                "file_url": "#"
+            },
+            {
+                "student_id": "EC-2024-115",
+                "student_name": "Emily Chen",
+                "submission_date": "2026-07-01",
+                "status": "Graded",
+                "grade": "B+",
+                "file_url": "#"
+            }
+        ]
+    },
+    {
+        "id": "a2",
+        "title": "Assignment 2: Docker Containerization of Web Services",
+        "description": "Deploy a multi-container flask app with postgres and redis caching using docker-compose.",
+        "department": "Computer Science",
+        "subject": "Cloud Computing",
+        "due_date": "2026-07-10",
+        "created_by": "faculty@smartcampus.edu",
+        "submissions": [
+            {
+                "student_id": "CS-2024-042",
+                "student_name": "Nikhil Gupta",
+                "submission_date": "2026-07-09",
+                "status": "Graded",
+                "grade": "A+",
+                "file_url": "#"
+            }
+        ]
+    },
+    {
+        "id": "a3",
+        "title": "Assignment 3: Transformers & Fine-tuning LLMs",
+        "description": "Fine-tune a distilbert model on text classification dataset and analyze accuracy metrics.",
+        "department": "Computer Science",
+        "subject": "Advanced AI",
+        "due_date": "2026-07-25",
+        "created_by": "faculty@smartcampus.edu",
+        "submissions": []
+    }
+]

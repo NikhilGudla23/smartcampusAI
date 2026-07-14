@@ -1,0 +1,41 @@
+[
+    {
+        "id": "u1",
+        "name": "Nikhil Gupta",
+        "email": "student@smartcampus.edu",
+        "department": "Computer Science",
+        "student_id": "CS-2024-042",
+        "cgpa": 3.85,
+        "attendance_rate": 94.2,
+        "joined_date": "2024-09-01",
+        "completed_assignments": 18,
+        "pending_assignments": 2,
+        "books_borrowed": 3
+    },
+    {
+        "id": "u2",
+        "name": "Emily Chen",
+        "email": "emily@smartcampus.edu",
+        "department": "Electronics",
+        "student_id": "EC-2024-115",
+        "cgpa": 3.62,
+        "attendance_rate": 88.5,
+        "joined_date": "2024-09-01",
+        "completed_assignments": 15,
+        "pending_assignments": 5,
+        "books_borrowed": 1
+    },
+    {
+        "id": "u6",
+        "name": "Flex",
+        "email": "flex@gmail.com",
+        "department": "Electronics",
+        "student_id": "CS-1235-234",
+        "cgpa": 0.0,
+        "attendance_rate": 100.0,
+        "joined_date": "",
+        "completed_assignments": 0,
+        "pending_assignments": 0,
+        "books_borrowed": 0
+    }
+]

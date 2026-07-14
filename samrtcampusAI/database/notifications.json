@@ -1,0 +1,34 @@
+[
+    {
+        "id": "n1",
+        "title": "End Semester Schedule Out",
+        "message": "The final exams schedule for all engineering departments is now updated under files and timetable section. Exams start from next Monday.",
+        "date": "2026-07-14 09:30",
+        "type": "Exam",
+        "recipient": "All"
+    },
+    {
+        "id": "n2",
+        "title": "AI Assistant Hackathon",
+        "message": "Join the annual AI Hackathon. Registrations close on July 20th. Winner gets a smart home lab device!",
+        "date": "2026-07-13 14:15",
+        "type": "System",
+        "recipient": "All"
+    },
+    {
+        "id": "n3",
+        "title": "New Assignment Posted: Advanced AI",
+        "message": "Dr. Sarah Jenkins has posted Assignment 3: Transformers & NLP Models. Due date is July 22nd.",
+        "date": "2026-07-12 11:00",
+        "type": "Assignment",
+        "recipient": "Student"
+    },
+    {
+        "id": "n4",
+        "title": "Library Book Overdue Warning",
+        "message": "Friendly reminder to return 'Design Patterns in Python' to library counter to avoid overdue fine charges.",
+        "date": "2026-07-11 08:00",
+        "type": "System",
+        "recipient": "student@smartcampus.edu"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "id": "u1",
+        "name": "Nikhil Gupta",
+        "email": "student@smartcampus.edu",
+        "password": "sha256$7210c3f07badc229c1cb44322055a0794a184ff1aa6f6b7984070d557415144f",
+        "department": "Computer Science",
+        "role": "Student",
+        "student_id": "CS-2024-042",
+        "mobile": "+1234567890"
+    },
+    {
+        "id": "u2",
+        "name": "Emily Chen",
+        "email": "emily@smartcampus.edu",
+        "password": "sha256$7210c3f07badc229c1cb44322055a0794a184ff1aa6f6b7984070d557415144f",
+        "department": "Electronics",
+        "role": "Student",
+        "student_id": "EC-2024-115",
+        "mobile": "+1987654321"
+    },
+    {
+        "id": "u3",
+        "name": "Dr. Sarah Jenkins",
+        "email": "faculty@smartcampus.edu",
+        "password": "sha256$7210c3f07badc229c1cb44322055a0794a184ff1aa6f6b7984070d557415144f",
+        "department": "Computer Science",
+        "role": "Faculty",
+        "mobile": "+1555123456"
+    },
+    {
+        "id": "u4",
+        "name": "Prof. David Miller",
+        "email": "miller@smartcampus.edu",
+        "password": "sha256$7210c3f07badc229c1cb44322055a0794a184ff1aa6f6b7984070d557415144f",
+        "department": "Mathematics",
+        "role": "Faculty",
+        "mobile": "+1555654321"
+    },
+    {
+        "id": "u5",
+        "name": "Alex",
+        "email": "alex@gmail.com",
+        "password": "sha256$7ae30127a9ea7ca41ab416004fd670dc3467a3fdc57c53c623a8f0e49c68307a",
+        "department": "Computer Science",
+        "role": "Faculty",
+        "student_id": "",
+        "mobile": "1234567890"
+    },
+    {
+        "id": "u6",
+        "name": "Flex",
+        "email": "flex@gmail.com",
+        "password": "sha256$7ae30127a9ea7ca41ab416004fd670dc3467a3fdc57c53c623a8f0e49c68307a",
+        "department": "Electronics",
+        "role": "Student",
+        "student_id": "CS-1235-234",
+        "mobile": ""
+    }
+]

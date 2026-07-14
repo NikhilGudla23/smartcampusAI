@@ -1,0 +1,242 @@
+[
+    {
+        "id": "att_u1_0",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-14",
+        "subject": "Advanced AI",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_c_0",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-14",
+        "subject": "Cloud Computing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u2_0",
+        "student_id": "EC-2024-115",
+        "student_name": "Emily Chen",
+        "department": "Electronics",
+        "date": "2026-07-14",
+        "subject": "Signal Processing",
+        "status": "Absent",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_1",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-13",
+        "subject": "Advanced AI",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_c_1",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-13",
+        "subject": "Cloud Computing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u2_1",
+        "student_id": "EC-2024-115",
+        "student_name": "Emily Chen",
+        "department": "Electronics",
+        "date": "2026-07-13",
+        "subject": "Signal Processing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_4",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-10",
+        "subject": "Advanced AI",
+        "status": "Absent",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_c_4",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-10",
+        "subject": "Cloud Computing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u2_4",
+        "student_id": "EC-2024-115",
+        "student_name": "Emily Chen",
+        "department": "Electronics",
+        "date": "2026-07-10",
+        "subject": "Signal Processing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_5",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-09",
+        "subject": "Advanced AI",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_c_5",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-09",
+        "subject": "Cloud Computing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u2_5",
+        "student_id": "EC-2024-115",
+        "student_name": "Emily Chen",
+        "department": "Electronics",
+        "date": "2026-07-09",
+        "subject": "Signal Processing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_6",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-08",
+        "subject": "Advanced AI",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_c_6",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-08",
+        "subject": "Cloud Computing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u2_6",
+        "student_id": "EC-2024-115",
+        "student_name": "Emily Chen",
+        "department": "Electronics",
+        "date": "2026-07-08",
+        "subject": "Signal Processing",
+        "status": "Absent",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_7",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-07",
+        "subject": "Advanced AI",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_c_7",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-07",
+        "subject": "Cloud Computing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u2_7",
+        "student_id": "EC-2024-115",
+        "student_name": "Emily Chen",
+        "department": "Electronics",
+        "date": "2026-07-07",
+        "subject": "Signal Processing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_8",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-06",
+        "subject": "Advanced AI",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_c_8",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-06",
+        "subject": "Cloud Computing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u2_8",
+        "student_id": "EC-2024-115",
+        "student_name": "Emily Chen",
+        "department": "Electronics",
+        "date": "2026-07-06",
+        "subject": "Signal Processing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_11",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-03",
+        "subject": "Advanced AI",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u1_c_11",
+        "student_id": "CS-2024-042",
+        "student_name": "Nikhil Gupta",
+        "department": "Computer Science",
+        "date": "2026-07-03",
+        "subject": "Cloud Computing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    },
+    {
+        "id": "att_u2_11",
+        "student_id": "EC-2024-115",
+        "student_name": "Emily Chen",
+        "department": "Electronics",
+        "date": "2026-07-03",
+        "subject": "Signal Processing",
+        "status": "Present",
+        "marked_by": "faculty@smartcampus.edu"
+    }
+]
